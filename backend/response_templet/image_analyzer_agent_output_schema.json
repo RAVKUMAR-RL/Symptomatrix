@@ -1,0 +1,55 @@
+ 
+ 
+ 
+ 
+ {
+      "Report Type": "[Report Type]",
+      "Patient Details": {
+        "Name": "[Patient Name]",
+        "Age": "[Patient Age]",
+        "Sex": "[Patient Sex]",
+        "Report ID": "[Report ID]",
+        "Sample Collected Date": "[Sample Collection Date]",
+        "Report Date": "[Report Date]"
+      },
+      "Clinical Observations": {
+        "Findings": [
+          {
+            "Parameter": "[Parameter Name]",
+            "Result": "[Value]",
+            "Reference Range": "[Min - Max Unit]",
+            "Observation": "[Observation]"
+          }
+        ],
+        "Summary": "[Summary of key findings]"
+      },
+      "Diagnosis Impression": {
+        "Conditions": [
+          {
+            "Condition": "[Condition Name]",
+            "Evidence": "[Supporting Evidence]"
+          }
+        ],
+        "Differential Diagnoses": [
+          {
+            "Condition": "[Potential Condition]",
+            "Reason": "[Supporting Reason]"
+          }
+        ],
+        "Guidelines Reference": "[Reference Guidelines]"
+      },
+      "Prognosis": {
+        "Clinical Correlation": "[Explanation of condition significance]",
+        "Recovery Chances": "[Likelihood of recovery based on findings]",
+        "Expected Progression": "[Possible disease progression]",
+        "Survival Rates": "[Impact on life expectancy]",
+        "Quality of Life": "[Impact on daily life and activities]"
+      },
+      "Confidence Level": {
+        "Percentage": "[Confidence level Percentage]",
+        "Explanation": "[Reasoning behind confidence level]"
+      },
+      "Disclaimer": "[Medical disclaimer text]"
+    }
+  
+  

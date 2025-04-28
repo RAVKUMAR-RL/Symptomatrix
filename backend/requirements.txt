@@ -1,0 +1,9 @@
+fastapi
+crewai
+openai
+python-dotenv
+uvicorn
+python-multipart
+crewai[tools]
+langchain-openai
+
