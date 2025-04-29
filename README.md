@@ -1,7 +1,7 @@
-# 🏥 Medical Image Analysis Backend
+# 🏥 Medical Image Analysis
 
 ## 📌 Overview
-The **Medical Image Analysis Backend** is an AI-powered system built using **FastAPI**. It allows users to upload medical images, analyze them with **GPT-4**, and receive treatment recommendations in multiple languages. The project aims to assist healthcare professionals in **diagnosing conditions** and suggesting relevant treatments using **AI-driven insights**.
+The **Medical Image Analysis** is an AI-powered system built using **FastAPI**. It allows users to upload medical images, analyze them with **GPT-4**, and receive treatment recommendations in multiple languages. The project aims to assist healthcare professionals in **diagnosing conditions** and suggesting relevant treatments using **AI-driven insights**.
 
 ## 🌟 Features
 ✅ AI-powered **medical image analysis** using **GPT-4o-mini**  
@@ -88,7 +88,7 @@ Ensure you have the following installed before proceeding:
     🔹 Expanding language support for wider accessibility
     🔹 Optimizing performance to process large medical dataset
 
-# UI Requizites
+# UI Prerequisites
 
 ## Install Vue.js - version 3
 
